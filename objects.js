@@ -1,6 +1,6 @@
+//In class demo
 //create a show object with several properties
-
-const show = {
+/*const show = {
     brand: "converse",
     laces: true,
     velcro: false,
@@ -13,3 +13,20 @@ console.table(shoe)
 
 console.log(shoe.brand);
 console.log(shoe  ["brand"]);
+*/
+
+// Object looping - the code below is the most used within objects. 
+/*for (const ket in object) {
+
+};
+*/ 
+
+
+const froyo = {
+    vanilla,
+    vanilla,
+    vanilla,
+    strawberry;
+    coffee, 
+    coffee,
+};
