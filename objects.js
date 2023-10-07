@@ -21,12 +21,10 @@ console.log(shoe  ["brand"]);
 };
 */ 
 
+let froyo = prompt("Please enter a list of froyo flavors:");
 
-const froyo = {
-    vanilla,
-    vanilla,
-    vanilla,
-    strawberry;
-    coffee, 
-    coffee,
+const flavors = {
+    vanilla: 3,
+    strawberry: 1,
+    coffee: 2,
 };
